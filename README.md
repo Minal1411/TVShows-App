@@ -3,7 +3,7 @@ TVShows-App is a app that gives the list of tv shows that uses the tvshows api f
 
 list of tv shows
 
-<img src="https://user-images.githubusercontent.com/49392229/99773396-7b307880-2b34-11eb-891c-a94718700544.png" width="200" height="200")
+<img src="https://user-images.githubusercontent.com/49392229/99773396-7b307880-2b34-11eb-891c-a94718700544.png" width="200" height="200">
 
 show description
 
